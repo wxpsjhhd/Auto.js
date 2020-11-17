@@ -1,2 +1,3 @@
-toast("我真帅!");
-alert("加油!")
+//toastlog()短消息
+toastLog(app.versionCode);//
+toastLog(app.versionName);//
